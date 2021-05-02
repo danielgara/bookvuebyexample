@@ -1,0 +1,7 @@
+{
+  "name": "chapter05",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

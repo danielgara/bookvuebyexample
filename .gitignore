@@ -5,3 +5,6 @@
 /chapter06/frontend/node_modules/*
 /chapter06/admin-frontend/node_modules/*
 /chapter06/backend/node_modules/*
+/chapter08/frontend/node_modules/*
+/chapter08/backend/node_modules/*
+/chapter08/backend/vendor/*
